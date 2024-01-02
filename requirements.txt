@@ -6,3 +6,4 @@ requests
 datetime
 psycopg2
 os
+plotly
